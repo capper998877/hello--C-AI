@@ -1,3 +1,3 @@
 #你好--C-AI
-智能体创建及skill收集
- 我需要人工智能
+Agent building  and skill collect   
+创建属于你的智能代理
